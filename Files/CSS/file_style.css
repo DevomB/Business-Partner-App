@@ -23,7 +23,7 @@ body {
     margin: 8% auto 0;
     position: relative;
     z-index: 1;
-    border-top: 5px solid #f5ba1a;
+    border-top: 5px solid #f4ab19;
     -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
@@ -76,7 +76,7 @@ body {
     position: absolute;
     left: 0;
     top: 0;
-    color: #333;
+    color: #226add;
     height: 100%;
     border-right: 1px solid #cccccc;
     text-align: center;
@@ -107,11 +107,11 @@ body {
     -webkit-box-shadow: 0 0 2px 1px rgba(255, 169, 0, 0.5);
     -moz-box-shadow: 0 0 2px 1px rgba(255, 169, 0, 0.5);
     box-shadow: 0 0 2px 1px rgba(255, 169, 0, 0.5);
-    border: 1px solid #f5ba1a;
+    border: 1px solid #f4ab19;
     background: #fafafa;
   }
   .form_wrapper input[type=submit] {
-    background: #f5ba1a;
+    background: #f4ab19;
     height: 35px;
     line-height: 35px;
     width: 100%;
@@ -237,7 +237,7 @@ body {
     height: 35px;
     padding: 0px 15px;
     cursor: pointer;
-    color: #7b7b7b;
+    color: #2b2b2b;
     border: 1px solid #cccccc;
     border-radius: 0;
     background: #fff;
@@ -265,7 +265,7 @@ body {
     pointer-events: none;
     border-width: 8px 5px 0 5px;
     border-style: solid;
-    border-color: #7b7b7b transparent transparent transparent;
+    border-color: #2b2b2b transparent transparent transparent;
   }
   
   .select_option select:hover + .select_arrow, .select_option select:focus + .select_arrow {
