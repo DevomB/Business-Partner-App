@@ -13,12 +13,6 @@ Then just follow the instructions within
 */
 import { API_Link } from './Abstract_Email_Verif.config.js'
 
-const database = getDatabase();
-const auth = getAuth();
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
-
-
 
 var attemptCount = 3;
 
