@@ -1,5 +1,7 @@
 {
-    "partner_1":{},
+    "partner_1":{
+        "name":"Partner 1"
+    },
     "partner_2":{},
     "partner_3":{},
     "partner_4":{},
