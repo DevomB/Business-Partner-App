@@ -8,29 +8,62 @@
                 "email":"smartandfinal@gmail.com"
             }
         },
-        "partner_2":{},
-        "partner_3":{},
-        "partner_4":{},
-        "partner_5":{},
-        "partner_6":{},
-        "partner_7":{},
-        "partner_8":{},
-        "partner_9":{},
-        "partner_10":{},
-        "partner_11":{},
-        "partner_12":{},
-        "partner_13":{},
-        "partner_14":{},
-        "partner_15":{},
-        "partner_16":{},
-        "partner_17":{},
-        "partner_18":{},
-        "partner_19":{},
-        "partner_20":{},
-        "partner_21":{},
-        "partner_22":{},
-        "partner_23":{},
-        "partner_24":{},
+        "partner_2":{
+            "name":"Crumbl Cookie",
+            "address":"7889 Sweetooth St ",
+            "contact_info":{
+                "phone_number": "(840)-591-9273",
+                "email":"thewaythecookiecrumbls.com"
+            }
+        },
+        "partner_2":{
+            "name":"Crumbl Cookie",
+            "address":"7889 Sweetooth St ",
+            "contact_info":{
+                "phone_number": "(840)-591-9273",
+                "email":"thewaythecookiecrumbls.com"
+            }
+        },
+        "partner_2":{
+            "name":"Crumbl Cookie",
+            "address":"7889 Sweetooth St ",
+            "contact_info":{
+                "phone_number": "(840)-591-9273",
+                "email":"thewaythecookiecrumbls.com"
+            }
+        },
+        "partner_2":{
+            "name":"Crumbl Cookie",
+            "address":"7889 Sweetooth St ",
+            "contact_info":{
+                "phone_number": "(840)-591-9273",
+                "email":"thewaythecookiecrumbls.com"
+            }
+        },
+        "partner_2":{
+            "name":"Crumbl Cookie",
+            "address":"7889 Sweetooth St ",
+            "contact_info":{
+                "phone_number": "(840)-591-9273",
+                "email":"thewaythecookiecrumbls.com"
+            }
+        },
+        "partner_2":{
+            "name":"Crumbl Cookie",
+            "address":"7889 Sweetooth St ",
+            "contact_info":{
+                "phone_number": "(840)-591-9273",
+                "email":"thewaythecookiecrumbls.com"
+            }
+        },
+        "partner_2":{
+            "name":"Crumbl Cookie",
+            "address":"7889 Sweetooth St ",
+            "contact_info":{
+                "phone_number": "(840)-591-9273",
+                "email":"thewaythecookiecrumbls.com"
+            }
+        },
         "partner_25":{}
     }
 }
