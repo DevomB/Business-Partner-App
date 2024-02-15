@@ -2,7 +2,11 @@
     "partners":{
         "partner_1":{
             "name":"Smart and Final",
-            "address":"1234 Main St"
+            "address":"1234 Main St",
+            "contact_info":{
+                "phone_number":"(951)-123-1313",
+                "email":"smartandfinal@gmail.com"
+            }
         },
         "partner_2":{},
         "partner_3":{},
