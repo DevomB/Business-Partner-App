@@ -1,7 +1,7 @@
 /* Make sure to go thru all colors and check if the colors align w/ the brand-center guidelines*/
 
 body {
-    font-family: Verdana, Geneva, sans-serif;
+  /* removed font family as it is imported in the other CSS */ 
     font-size: 14px;
     background: #0a2e7f;
   }
