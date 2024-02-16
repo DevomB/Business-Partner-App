@@ -1,0 +1,8 @@
+# VSC Settings
+/.vscode
+
+/Files/JS/Abstract_Email_Verif.config.js
+# Abstract Email API Key
+
+/Files/JS/Firebase.config.js
+#Firebase SDK
