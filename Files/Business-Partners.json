@@ -25,44 +25,180 @@
             }
         },
         "partner_4":{
-            "name":"Crumbl Cookie",
-            "address":"7889 Sweetooth St ",
+            "name":"Vita Cane",
+            "address":"4910 Hamner Ave Suite 160, Eastvale, CA 91752",
             "contact_info":{
-                "phone_number": "(840)-591-9273",
-                "email":"thewaythecookiecrumbls.com"
+                "phone_number": "(951)-934-3239",
+                "email":"vceastvale@gmail.com"
             }
         },
         "partner_5":{
-            "name":"Crumbl Cookie",
-            "address":"7889 Sweetooth St ",
+            "name":"Five Guys",
+            "address":"6285 Pats Ranch Rd SUITE A, Jurupa Valley, CA 91752",
             "contact_info":{
-                "phone_number": "(840)-591-9273",
-                "email":"thewaythecookiecrumbls.com"
+                "phone_number": "(951) 272-9300",
+                "email":"eastvalefiveguys@gmail.com"
             }
         },
         "partner_6":{
-            "name":"Crumbl Cookie",
-            "address":"7889 Sweetooth St ",
-            "contact_info":{
-                "phone_number": "(840)-591-9273",
-                "email":"thewaythecookiecrumbls.com"
-            }
+                "name":"Sizzle Pie",
+                "address":"456 Pizza Ave, Portland, OR 97204",
+                "contact_info":{
+                    "phone_number": "(503)-555-1234",
+                    "email":"info@sizzlepie.com"
+                }
         },
-        "partner_7":{
-            "name":"Crumbl Cookie",
-            "address":"7889 Sweetooth St ",
-            "contact_info":{
-                "phone_number": "(840)-591-9273",
-                "email":"thewaythecookiecrumbls.com"
-            }
+            "partner_7":{
+                "name":"Tech Savvy Solutions",
+                "address":"789 Tech Blvd, Silicon Valley, CA 94025",
+                "contact_info":{
+                    "phone_number": "(650)-777-4567",
+                    "email":"info@techsavvysolutions.com"
+                }
         },
-        "partner_8":{
-            "name":"Crumbl Cookie",
-            "address":"7889 Sweetooth St ",
-            "contact_info":{
-                "phone_number": "(840)-591-9273",
-                "email":"thewaythecookiecrumbls.com"
-            }
+            "partner_8":{
+                "name":"Bloom & Grow Floral",
+                "address":"101 Flower Street, Garden Grove, CA 92840",
+                "contact_info":{
+                    "phone_number": "(714)-888-9999",
+                    "email":"bloomandgrow@gmail.com"
+                }
+        },
+            "partner_9":{
+                "name":"Zenith Electronics",
+                "address":"345 Innovation Avenue, San Jose, CA 95134",
+                "contact_info":{
+                    "phone_number": "(408)-123-4567",
+                    "email":"info@zenithelectronics.com"
+                }
+        },
+            "partner_10":{
+                "name":"Munchkin Mart",
+                "address":"222 Candy Lane, Sugarland, TX 77478",
+                "contact_info":{
+                    "phone_number": "(281)-555-9876",
+                    "email":"hello@munchkinmart.com"
+                }
+        },
+            "partner_11":{
+                "name":"Serenity Spa",
+                "address":"567 Relaxation Road, Tranquility, CA 90210",
+                "contact_info":{
+                    "phone_number": "(310)-111-2222",
+                    "email":"info@serenityspa.com"
+                }
+        },
+            "partner_12":{
+                "name":"Peak Performance Gym",
+                "address":"789 Fitness Avenue, Strongsville, OH 44136",
+                "contact_info":{
+                    "phone_number": "(440)-999-8888",
+                    "email":"info@peakperformancegym.com"
+                }
+        },
+            "partner_13":{
+                "name":"Java Jolt Cafe",
+                "address":"321 Coffee Street, Caffeine City, WA 98052",
+                "contact_info":{
+                    "phone_number": "(425)-777-3333",
+                    "email":"info@javajoltcafe.com"
+                }
+        },
+            "partner_14":{
+                "name":"Hollywood Glam Boutique",
+                "address":"432 Fashion Ave, Los Angeles, CA 90001",
+                "contact_info":{
+                    "phone_number": "(213)-444-5678",
+                    "email":"hello@hollywoodglam.com"
+                }
+        },
+            "partner_15":{
+                "name":"Adventure Gear Outfitters",
+                "address":"876 Outdoor Way, Explorer City, CO 80301",
+                "contact_info":{
+                    "phone_number": "(303)-666-9999",
+                    "email":"info@adventuregear.com"
+                }
+        },
+            "partner_16":{
+                "name":"Sunny Day Daycare",
+                "address":"543 Sunshine Blvd, Happytown, FL 33134",
+                "contact_info":{
+                    "phone_number": "(305)-222-3333",
+                    "email":"hello@sunnydaydaycare.com"
+                }
+        },
+            "partner_17":{
+                "name":"Golden Harvest Grocery",
+                "address":"987 Harvest Lane, Farmville, VA 23901",
+                "contact_info":{
+                    "phone_number": "(434)-777-4444",
+                    "email":"info@goldenharvest.com"
+                }
+        },
+            "partner_18":{
+                "name":"Cozy Corner Bookstore",
+                "address":"654 Reading Road, Booksville, NY 10001",
+                "contact_info":{
+                    "phone_number": "(212)-555-6789",
+                    "email":"hello@cozycornerbooks.com"
+                }
+        },
+            "partner_19":{
+                "name":"Peak Pet Paradise",
+                "address":"123 Pet Haven, Furry Friends, WA 98004",
+                "contact_info":{
+                    "phone_number": "(425)-333-7777",
+                    "email":"info@peakpetparadise.com"
+                }
+        },
+            "partner_20":{
+                "name":"Sweet Treats Bakery",
+                "address":"789 Dessert Avenue, Sugarville, TX 77001",
+                "contact_info":{
+                    "phone_number": "(713)-999-1111",
+                    "email":"hello@sweettreatsbakery.com"
+                }
+         },
+            "partner_21":{
+                "name":"Acme Solutions",
+                "address":"123 Tech Street, Innovate City, CA 90002",
+                "contact_info":{
+                    "phone_number": "(213)-555-1212",
+                    "email":"info@acmesolutions.com"
+                }
+        },
+            "partner_22":{
+                "name":"Rainbow Kids Learning Center",
+                "address":"456 Rainbow Lane, Colorful Town, GA 30301",
+                "contact_info":{
+                    "phone_number": "(404)-777-2222",
+                    "email":"info@rainbowkids.com"
+                }
+        },
+            "partner_23":{
+                "name":"Fitness Fusion Studio",
+                "address":"789 Workout Way, Fitnessville, CA 90210",
+                "contact_info":{
+                    "phone_number": "(310)-999-4444",
+                    "email":"info@fitnessfusion.com"
+                }
+        },
+            "partner_24":{
+                "name":"Cityscape Realty",
+                "address":"101 Main Street, Urban Center, NY 10001",
+                "contact_info":{
+                    "phone_number": "(212)-333-8888",
+                    "email":"info@cityscaperealty.com"
+                }
+        },
+            "partner_25":{
+                "name":"Gourmet Grill House",
+                "address":"123 Delicious Drive, Flavor Town, NV 89501",
+                "contact_info":{
+                    "phone_number": "(775)-555-0101",
+                    "email":"info@gourmetgrillhouse.com"
+                }
         }
     },
     "Volunteers":[
