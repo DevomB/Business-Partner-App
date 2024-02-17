@@ -1,35 +1,21 @@
-/* Import a bunch of fonts and give class names to items where we want to add specific fonts */
+/* 
+Our brand’s typographic identity relies heavily on the use of Apercu. 
+The alternate primary option is Arial. 
+We have selected these options because they work well 
+in both digital and print executions.
 
+While Bold can be used for headlines, 
+Medium (in uppercase) works well for subheads. 
+For body copy on dark backgrounds with white text, 
+use Medium for increased readability. 
+*/
 
-/* Bebas class: https://fonts.google.com/specimen/Bebas+Neue */
-.bebas-neue-regular {
-    font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
+@import url('https://fonts.cdnfonts.com/css/apercu-pro?styles=109351,109350,109349,109348,109347,109346');
 
-/* Roboto Classses: https://fonts.google.com/specimen/Roboto */
-.roboto-regular {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .roboto-medium {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-  }
-  
-  .roboto-bold {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-  }
-  
-  .roboto-black {
-    font-family: "Roboto", sans-serif;
-    font-weight: 900;
-    font-style: normal;
-  }
-  
+/* 109351: Apercu Pro 400
+109350: Apercu Pro 400 (alternate)
+109349: Apercu Pro 600
+109348: Apercu Pro Italic 600
+109347: Apercu Pro 700
+109346: Apercu Pro Italic 700
+*/
